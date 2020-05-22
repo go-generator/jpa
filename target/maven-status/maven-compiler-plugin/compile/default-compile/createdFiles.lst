@@ -1,0 +1,6 @@
+jpa\book\BookCategoryRepository.class
+jpa\book\BookRepository.class
+jpa\book\BookCategory.class
+jpa\book\Book.class
+jpa\book\BookCategoryPK.class
+jpa\JpaApplication.class
